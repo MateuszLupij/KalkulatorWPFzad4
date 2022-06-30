@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KalkulatorWPFzad4", "KalkulatorWPFzad4\KalkulatorWPFzad4.csproj", "{74984C7A-06B4-4332-8A2D-D1506CFE998E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74984C7A-06B4-4332-8A2D-D1506CFE998E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74984C7A-06B4-4332-8A2D-D1506CFE998E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74984C7A-06B4-4332-8A2D-D1506CFE998E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74984C7A-06B4-4332-8A2D-D1506CFE998E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA3CC367-74CB-40BD-A72D-545DC6CCE079}
+	EndGlobalSection
+EndGlobal
